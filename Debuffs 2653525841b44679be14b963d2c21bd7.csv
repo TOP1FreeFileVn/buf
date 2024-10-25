@@ -1,0 +1,82 @@
+﻿Icon,Name,Thời lượng,Hiệu ứng
+Debuff_Betsy27s_Curse.webp,Betsy's Curse,5 giây,"Tất cả kẻ thù bị tấn công sẽ giảm 40 phòng thủ.
+
+Không thể gây hiệu ứng này lên người chơi."
+Blackout.webp,Blackout,4 giây,Màn hình bị giảm ánh sáng xuống gần như tối hoàn toàn.
+Debuff_Bleeding.webp,Bleeding,45 giây,Ngăn chặn hồi phục HP tự nhiên.
+Debuff_Broken_Armor.webp,Broken Armor,2 phút,Phòng thủ giảm một nửa
+Burning.webp,Burning,Cho đến khi không tương tác,"Tốc độ di chuyển giảm một nửa
+Mất 50 sinh lực mỗi giây.
+"
+Debuff_Celled.webp,Celled,6-9 giây,"Mất 10 HP mỗi giây cho mỗi mini-cell gắn liền, tối đa lên đến 100 HP mỗi giây. Không thể gây hiệu ứng này lên người chơi."
+Chaosstate.webp,Chaos State,"6 giây ",Sử dụng Rod of Discord gây sát thương bằng 14.29% sinh lực tối đa của người chơi. Đặt lại thời gian hiệu ứng debuff.
+Chilled.webp,Chilled,"10-20 giây
+45 giây(Ice Golem)",Tốc độ di chuyển giảm một nửa
+Debuff_Confused.webp,Confused,7 giây,Di chuyển của người chơi sẽ bị đảo ngược tạm thời. Kẻ thù dính hiệu ứng này sẽ chạy trốn.
+CreativityShock.webp,Creative Shock,Trong suốt sự kiện Old One's Army,Người chơi không thể đặt hoặc phá hủy khối. (trừ một số ngoại lệ)
+Debuff_Cursed.webp,Cursed,4 giây,"Ngăn chặn người chơi sử dụng vật phẩm.
+(Phụ kiện vẫn có thể sử dụng.)"
+Debuff_Cursed_Inferno.webp,Cursed Inferno,7 giây,"Mất 6 HP mỗi giây.Ngăn chặn hồi phục HP tự nhiên và hiệu ứng này không thể bị loại bỏ bởi nước.
+"
+Debuff_Darkness.webp,Darkness,15 giây,Giảm tầm nhìn của người chơi
+Buff_189.webp,Daybroken,15 giây,"Gây 100 sát thương mỗi giây; Daybreak có thể stack hiệu ứng này lên đến tám lần, tối đa 800 sát thương mỗi giây. Không thể gây hiệu ứng này lên người chơi."
+Debuff_Dazed.webp,Dazed,(N/A),Tốc độ di chuyển ngang giảm khoảng 75%.
+Debuff_Distorted.webp,Distorted,"6-12 giây
+5-9 giây",Khiến người chơi nổi lên và xuống một cách ngẫu nhiên. Hiệu ứng này không thể bị chống lại.
+Debuff_Dryad27s_Bane.webp,Dryad's Bane,Khi ở trong lá chắn của Dryad.,"-2 HP mỗi giây; sát thương tăng lên cho mỗi boss bị đánh bại, cũng như khi chơi ở Chế độ Expert. Không thể gây hiệu ứng này lên người chơi."
+Debuff_Electrified.webp,Electrified,4-8 giây,"Giảm HP liên tục và ngăn chặn hồi phục HP tự nhiên.
+-4/s khi đứng yên
+-16/s khi di chuyển.
+"
+Feral_Bite.webp,Feral Bite,5-8 giây,Tăng sát thương của người chơi nhưng giảm hồi phục HP và áp dụng các hiệu ứng debuff ngẫu nhiên.
+Debuff_Frostburn.webp,Frostburn,"4 giây
+1-8 giây
+10 giây",Giảm 8 HP mỗi giây. Ngăn chặn hồi phục HP tự nhiên.
+Frozen.webp,Frozen,2 giây,"Nhốt người chơi trong băng, khiến người chơi trở nên bất lực."
+image_2024-10-25_152139379.png,Horrified,Ở trong underworld khi Wall of Flesh xuất hiện.,Khiến người chơi chết nếu họ rời khỏi underworld.
+image_2024-10-25_152155059.png,Ichor,15 giây,Giảm 20 phòng thủ
+image_2024-10-25_152202495.png,Mana Sickness,5 giây,Sát thương phép thuật giảm 5% cho mỗi giây còn lại; tối đa 50% sau 10 giây.
+image_2024-10-25_152209342.png,Midas,15 phút,Nhiều tiền hơn sẽ rơi ra từ những người chơi và kẻ thù bị ảnh hưởng.
+image_2024-10-25_152216196.png,Mighty Wind,Chỉ khi ở trong sa mạc trong thời gian bão cát.,Làm chậm hoặc tăng tốc độ di chuyển của người chơi tùy thuộc vào hướng di chuyển.
+image_2024-10-25_152223280.png,Moon Bite,14/16 giây,"Ngăn chặn người chơi hồi phục HP bằng Vampire Knives hoặc Spectre Hood.
+Không ngăn hồi phục HP, vì vậy các vật phẩm liên quan, như Life Drain, vẫn có thể được sử dụng."
+image_2024-10-25_152316225.png,Obstructed,"Vô hạn, cho đến khi Brain Suckler bị đánh bại.",Tối mờ hầu hết màn hình ngoại trừ một khu vực nhỏ xung quanh người chơi.
+image_2024-10-25_152326148.png,On Fire!,3-7 giây,"-4 HP mỗi giây.
+-6 HP mỗi giây.
+Ngăn chặn hồi phục HP tự nhiên."
+image_2024-10-25_152331036.png,Oozed,14 giây,Tốc độ di chuyển ngang của người chơi bị giảm mạnh. Không ảnh hưởng đến cánh và thú cưỡi bay.
+image_2024-10-25_152337485.png,Penetrated,15 giây,"Gây 3 sát thương mỗi giây cho mỗi Javelin mắc kẹt trong mục tiêu, tối đa 18 sát thương mỗi giây với 6 Javelins. Không thể gây hiệu ứng này lên người chơi."
+image_2024-10-25_152347937.png,Poisoned,7-10 giây,"-2 HP mỗi giây
+Ngăn chặn hồi phục HP tự nhiên."
+image_2024-10-25_152353800.png,Potion Sickness,60 giây,Ngăn chặn người chơi tiêu thụ các vật phẩm hồi phục sinh lực.
+image_2024-10-25_152404790.png,Shadowflame,5-8 giây,"Gây 15 sát thương mỗi giây. Ngăn chặn hồi phục sinh lực tự nhiên. Người chơi không thể bị ảnh hưởng.
+"
+image_2024-10-25_152409636.png,Silenced,7 giây,Ngăn chặn người chơi thực hiện bất kỳ phép thuật nào.
+image_2024-10-25_152415786.png,Slime,30 giây,Thực thể bị ảnh hưởng giọt slime (Cosmetic).
+image_2024-10-25_152428606.png,Slow,15 giây,Tốc độ di chuyển ngang giảm một nửa.
+image_2024-10-25_152433347.png,Stinky,30 giây,Khói xanh xuất hiện xung quanh bạn (Cosmetic).
+image_2024-10-25_152440223.png,Stoned,1-4 giây,Người chơi không thể làm gì. Tăng sát thương rơi và giảm khoảng cách tối thiểu để nhận sát thương khi rơi.
+image_2024-10-25_152450495.png,Stunned,5-7 giây,Làm cho kẻ thù bị ảnh hưởng hoàn toàn bất động.
+image_2024-10-25_152456030.png,Suffocation,"Cho đến khi thoát khỏi các khối bị ảnh hưởng bởi trọng lực (cát, bùn, v.v.)Hết tác dụng Red Potion.
+
+","Mất 10 sinh lực mỗi giây.Red Potion có tác dụng trong một giờ.
+"
+image_2024-10-25_152501525.png,The Tongue,Khi bị kéo bởi Wall of Flesh.,"Không thể di chuyển hoặc sử dụng vật phẩm.Wall of Flesh kéo người chơi ra phía trước nó, gây 50 sát thương mỗi giây ở Chế độ Chuyên gia.
+
+"
+image_2024-10-25_152511481.png,Tipsy,2 phút,"+2% tỉ lệ chí mạng cận chiến
++10% tốc độ tấn công cận chiến
++10% sát thương cận chiến
+-4 Phòng thủ"
+image_2024-10-25_152516194.png,Venom,8 giây,"Giảm 6 HP mỗi giây
+Ngăn chặn hồi phục HP tự nhiên."
+image_2024-10-25_152527714.png,Water Candle,Đến khi ra khỏi phạm vi của Water Candle,Tỉ lệ spawn quái tăng
+image_2024-10-25_152532244.png,Weak,5 phút,"-4 Phòng thủ
+-5% sát thương cận chiến
+-5% tốc độ tấn công cận chiến
+-10% tốc độ di chuyển"
+image_2024-10-25_152539390.png,Webbed,1 giây,Vô hiệu hóa chuyển động của người chơi.
+image_2024-10-25_152544646.png,Wet,25 giây,"Thực thể bị ảnh hưởng nhỏ giọt nước (Trang trí).
+Có thể kích hoạt tăng tốc độ của Cute Fishron."
+image_2024-10-25_152551545.png,Wither Armor,Khi ở trong vòng tròn.5 / 10 giây.,Giảm phòng thủ một nửa
+image_2024-10-25_152557006.png,Wither Weapon,5 giây,Giảm một nửa tất cả sát thương gây ra.

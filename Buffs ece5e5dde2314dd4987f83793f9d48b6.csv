@@ -1,0 +1,85 @@
+﻿Icon,Tên,Thời lượng,Hiệu ứng
+Buff_Ammo_Box.webp,Ammo Box,Đến khi người chơi chết,+20% cơ hội không tiêu thụ bất kỳ loại đạn nào khi sử dụng vũ khí tầm xa.
+Ammo_Reservation.webp,Ammo Reservation,7 phút,+20% cơ hội không tiêu thụ bất kỳ loại đạn nào khi sử dụng vũ khí tầm xa.
+Buff_Archery.webp,Archery,4 phút,"+20% tốc độ tấn công của cung.
++20% sát thương của cung."
+Buff_Banner.webp,Banner,"Vô hạn, miễn là người chơi ở trong vùng ảnh hưởng.",Giảm sát thương nhận vào và tăng sát thương gây ra đối với những kẻ địch đó.
+Buff_Battle.webp,Battle,7 phút,"+50% tốc độ xuất hiện quái vật.
++100% giới hạn số lượng quái vật xuất hiện."
+Ballista_Panic21buff.webp,Ballista Panic!,3 giây,Tăng gấp đôi tốc độ bắn của tháp pháo Ballista.
+"Beetle_Endurance_45.webp, Beetle_Endurance_30.webp, Beetle_Endurance_30%201.webp",Beetle Endurance,"Cho đến khi tất cả bọ hung theo bạn chết. Sau đó, chúng sẽ hồi sinh sau một vài giây.","Sát thương giảm 45%, khi bị thương, giảm xuống 30%, sau đó là 15%."
+Buff_Bewitched.webp,Bewitched,Đến khi người chơi chết,Tăng số lượng tối đa của minion thêm 1.
+Buff_Builder.webp,Builder,15 phút,Tăng tốc độ và phạm vi đặt khối.
+Buff_Calm.webp,Calm,5 phút,Giảm tốc độ xuất hiện của kẻ thù.
+Buff_99.webp,Cozy Fire,Miễn là người chơi gần một ngọn lửa trại,Tăng khả năng hồi phục
+Buff_Clairvoyance.webp,Clairvoyance,Đến khi người chơi chết,"+20 mana tối đa.
++5% sát thương phép thuật.
++2% tỷ lệ chí mạng phép thuật.
+-2% tiêu hao mana"
+Buff_Crate.webp,Crate,3 phút,Tăng đáng kể cơ hội nhận được thùng hàng thông qua câu cá.
+Buff_155.webp,Crimson Heart,Vô hạn sau khi được triệu hồi.,Phát ra ánh sáng và theo chân người chơi.
+"Buff_179.webp, Buff_180.webp, Buff_181.webp",Damage Nebula,"8 giây cho mỗi stack, tối đa lên đến ba lần.","Tăng sát thương của người chơi lên 15% mỗi stack, tối đa 3 stack"
+Buff_111.webp,Dangersense,10 phút,Người chơi có thể thấy bẫy và các mối nguy hiểm khác.
+Dryad27s_Blessing.webp,Dryad's Blessing,Vô hạn khi ở trong khu vực.,"Tăng cường phòng thủ và hồi phục sinh lực, hiệu ứng Thorns."
+Buff_Endurance.webp,Endurance,4 phút,Giảm mọi sát thương nhận vào thêm 10%.
+,Exquisitely stuffed,Phụ thuộc vào đồ ăn,Tăng cường đáng kể tất cả các chỉ số.
+Buff_Featherfall.webp,Featherfall,5 phút,Cho phép kiểm soát tốc độ rơi và miễn nhiễm sát thương do ngã.
+Buff_Fishing.webp,Fishing,8 phút,Tăng cơ hội tìm thấy cá/vật phẩm và giảm khả năng tìm thấy rác khi câu cá.
+Buff_Flippers.webp,Flippers,8 phút,Loại bỏ giảm tốc độ khi di chuyển qua nước.
+Buff_Gills.webp,Gills,2 phút,"Người chơi có thể thở dưới nước và dung nham (kể từ phiên bản 1.2, bạn có thể thở khi hiệu ứng này đang hoạt động)."
+Buff_Gravitation.webp,Gravitation,3 phút,Cho phép kiểm soát trọng lực.
+Buff_146.webp,Happy!,Vô hạn khi trong phạm vi (100 ô vuông).,Tăng tốc độ di chuyển và giảm tốc độ xuất hiện của quái vật.
+Buff_100-1.webp,Heart Lantern,Miễn là người chơi ở gần Heart Lantern,Tăng khả năng hồi phục
+Buff_HeartReach.webp,Heart Reach,8 phút,Tăng phạm vi thu thập trái tim của người chơi.
+Buff_48.webp,Honey,"Liên tục khi tiếp xúc với Mật Ong. Hiệu lực kéo dài 30 giây sau khi rời khỏi Mật Ong.
+",Tốc độ hồi phục HP được tăng nhẹ.
+Buff_Hunter.webp,Hunter,5 phút,Khiến kẻ thù phát sáng.
+Ice_Barrier.webp,Ice Barrier,Miễn là dưới 25% HP còn lại.,Phòng thủ được tăng lên 30
+Buff_Inferno.webp,Inferno,4 phút,"Tạo ra một vòng lửa. Kẻ thù nào đi vào sẽ nhận được hiệu ứng Đang Bị Cháy! Tuy nhiên, không ảnh hưởng đến kẻ thù miễn dịch với hiệu ứng này."
+Invisibility.png,Invisibility,2 phút,Khiến người dùng tàng hình đối với người chơi khác (nhưng không đối với quái vật).
+Ironskin.png,Ironskin,5 phút,+8 phòng thủ
+Buff_Leaf_Crystal.webp,Leaf Crystal,Khi mặc Giáp Chlorophyte.,Tấn công kẻ thù gần đó bằng lá.
+Buff_151.webp,Life Drain,Miễn là kẻ thù đang bị sát thương bởi Hiệu Ứng Life Drain,Tăng tốc độ hồi phục HP
+Lifeforce.png,Lifeforce,5 phút,Tăng tối đa HP lên 20%.
+Life_Nebula.png,Life Nebula,"8 giây cho mỗi stack, tối đa lên đến ba lần.","Tốc độ hồi phục HP được tăng, và hiệu ứng càng mạnh khi có nhiều lần stack hơn."
+Buff_Lovestruck.webp,Lovestruck,30 giây,Phát ra các hạt hình trái tim để trang trí.
+Buff_Magic_Power.webp,Magic Power,2 phút,+20% sức mạnh phép thuật
+"Buff_176.webp, Buff_177.webp, Buff_178.webp",Mana Nebula,"8 giây cho mỗi stack, tối đa lên đến ba lần.","Tốc độ hồi phục mana được tăng, và hiệu ứng càng mạnh khi có nhiều stack hơn."
+Buff_Mana_Regeneration.webp,Mana Regeneration,2 phút,Tốc độ hồi phục mana được tăng nhẹ.
+Buff_Merfolk.webp,Merfolk,Khi ở dưới nước (không phải trong dung nham).,Nhận được khả năng của một Merfolk.
+Buff_Mining.webp,Mining,8 phút,Khai thác khối/ quặng nhanh hơn 25%.
+Buff_Night_Owl.webp,Night Owl,4 phút,Cung cấp khả năng nhìn trong bóng tối.
+Buff_Obsidian_Skin.webp,Obsidian Skin,4 phút,Người dùng có thể vào dung nham mà không bị sát thương.
+Panic21_Buff.webp,Panic!,5 giây,+25% tốc độ di chuyển
+Buff_PeaceCandle.webp,Peace Candle,Khi đứng gần một Peace Candle,Giảm tỷ lệ xuất hiện của quái vật. Đây là hiệu ứng ngược lại của Water Candle.
+Buff_Rage.webp,Rage,4 phút,Tăng 10% tỷ lệ chí mạng với mọi vũ khí.
+Rapidhealing.webp,Rapid Healing,5 giây,Tốc độ hồi phục HP được tăng cường đáng kể.
+Buff_Regeneration.webp,Regeneration,5 phút,Tốc độ hồi phục HP được tăng nhẹ.
+Shadow_Dodge.webp,Shadow Dodge,20 giây hoặc bị dính đòn,2 giây bất tử sau khi bị dính đòn
+Buff_19.webp,Shadow Orb,Vô hạn sau khi được triệu hồi.,Phát ra ánh sáng và theo chân người chơi.
+Buff_Sharpened.webp,Sharpened,Đến khi người chơi chết,Các vũ khí cận chiến có thể giảm một vài điểm phòng thủ của mục tiêu.
+Buff_Shine.webp,Shine,5 phút,Phát ra một lượng ánh sáng vừa phải.
+Buff_Sonar.webp,Sonar,4 phút,"Khi câu được một món đồ, một chú thích sẽ xuất hiện trên cần câu, cho biết người chơi đã nhận được gì."
+Buff_Spelunker.webp,Spelunker,5 phút,"Khiến quặng, đá quý, rương, chậu, trái tim pha lê và cây cối phát sáng."
+Buff_StarInABottle.webp,Star in a Bottle,Khi ở gần một Star in a Bottle.,Tăng tốc độ hồi phục mana một chút.
+Buff_StrikingMoment.webp,Striking Moment,5 giây,Đòn tấn công cận chiến tiếp theo sẽ nhận được 500% sát thương cộng thêm.
+Buff_SugarRush.webp,Sugar Rush,Đến khi người chơi chết,"+20% tốc độ di chuyển.
++20% tốc độ khai thác"
+Buff_Summoning.webp,Summoning,6 phút,Tăng số lượng tối đa của minion thêm 1.
+Buff_Swiftness.webp,Swiftness,4 phút,+25% tốc độ di chuyển
+Buff_Thorns.webp,Thorns,2 phút,Phản lại 50% sát thương nhận vào cho kẻ tấn công.
+Buff_Titan.webp,Titan,4 phút,Tăng cường sức đẩy lùi của tất cả các vũ khí.
+Buff_Warmth.webp,Warmth,15 phút,Giảm sát thương nhận vào từ các nguồn lạnh.
+Buff_Water_Walking.webp,Water Walking,5 phút,Người chơi có thể đi trên bề mặt nước và dung nham mà không bị thương.
+Buff_Well_Fed.webp,Well Fed,"3 phút (Cá)
+10 phút (Súp)
+15 phút (Khác)
+20 phút (Sashimi)
+45 phút (Bánh Bí Ngô)","+2 phòng thủ.
++1% tỷ lệ chí mạng.
++5% tốc độ tấn công cận chiến.
++5% sát thương cận chiến.
++10% sát thương phép thuật.
++10% tốc độ di chuyển"
+Buff_Werewolf.webp,Werewolf,Suốt buối đêm.,Tăng cường khả năng thể chất +3.
+Buff_Wrath.webp,Wrath,4 phút,Tăng tất cả sát thương gây ra thêm 10%.
